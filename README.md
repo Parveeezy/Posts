@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-###install node_modules
+### install node_modules
 yarn install
 
-###start localhost
+### start localhost
 yarn run dev
